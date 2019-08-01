@@ -1,0 +1,8 @@
+export const INCREMENT_COUNT = "INCREMENT_COUNT"
+export const DECREMENT_COUNT = "DECREMENT_COUNT"
+export const GET_LAUNCHES = "GET_LAUNCHES"
+export const GET_FLIGHTS = "GET_FLIGHTS"
+export const GET_POSTS = "GET_POSTS"
+export const UPDATE_POSTS = "UPDATE_POSTS"
+export const ADD_POST = "ADD_POST"
+export const CHANGE_POST = "CHANGE_POST"
