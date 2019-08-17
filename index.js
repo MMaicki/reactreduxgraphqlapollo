@@ -4,8 +4,6 @@ const schema = require('./schema')
 const cors = require('cors')
 const app = express()
 
-const ass = require('thunk')
-
 app.use(cors())
 
 app.use('/graphql', graphqlHTTP({
